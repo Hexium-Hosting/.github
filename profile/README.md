@@ -7,12 +7,13 @@ Want to chat? ♥️ [contact@hexium.host](mailto:contact@hexium.host)\
 
 ### Lots of thanks to our wonderful community & support
 - [John Burke](https://github.com/IceeMC)
+- [Jason](https://github.com/Synthesz)
 
  \
 @hexium
 ♥️ William Pedersen \
 Hexium Hosting Director \
-[@william-pedersen](https://github.com/william-pedersen) [william@hexium.host](mailto:william@hexium.host)\
+[@william-pedersen](https://github.com/william-pedersen) [william@hexium.host](mailto:william@hexium.host)
 <!--
 
 **Here are some ideas to get you started:**
