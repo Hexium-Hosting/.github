@@ -1,10 +1,13 @@
 # Hi there
-We're **Hexium Hosting**. Our mission is to make hosting more affordable and accessible for everyone.
-You should check us out at [hexium.host](https://hexium.host).
-
-We are constantly contributing to open-source projects and improving the ecosystem around us.
-Want to chat? ♥️ [contact@hexium.host](mailto:contact@hexium.host)
-
+We're **Hexium Hosting** 👋\
+Our mission is to make hosting more affordable and accessible for everyone.\
+You should check us out at [hexium.host](https://hexium.host).\
+ \
+We are constantly contributing to open-source projects and improving the ecosystem around us.\
+Want to chat? ♥️ [contact@hexium.host](mailto:contact@hexium.host)\
+ \
+♥️ @william-pedersen [william@hexium.host](mailto:william@hexium.host)\
+Hexium Hosting Director
 <!--
 
 **Here are some ideas to get you started:**
