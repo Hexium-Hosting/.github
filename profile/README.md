@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there
+We're **Hexium Hosting**. Our mission is to make hosting more affordable and accessible for everyone.
+You should check us out at [hexium.host](https://hexium.host).
+
+We are constantly contributing to open-source projects and improving the ecosystem around us.
+Want to chat? ♥️ [contact@hexium.host](mailto:contact@hexium.host)
 
 <!--
 
